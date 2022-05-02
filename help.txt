@@ -1,0 +1,4 @@
+Ceci est un simulateur pour visualiser les cellules d'un reseau.
+Il permet egalement de calculer le diametre idéale des cellules pour éviter les interferences et satisfaire le nombre d'abonnées.
+Si vous voulez executer le tp sur Jypiter Notebook il faut utiliser le ficher network-notebook 
+si vous exiter le tp dans un editeur classique python utiliser le fichier network
